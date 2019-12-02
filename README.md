@@ -15,8 +15,8 @@ contains code to be a server in local
 
 # flask_app 
 contains code which is very similar with server.py, the only different is only url. 
-this code will be used as a server in public domain (pythonanywhere.com) 
-the platform for API development that is used in this section is Postman
+This code will be used as a server in public domain (pythonanywhere.com). 
+The platform for API development that is used in this section is Postman
 
 
 
